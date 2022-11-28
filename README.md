@@ -39,4 +39,4 @@ Onderstaande stappen beschrijven op globale wijze wat er moet gebeuren. Schroom 
    - Maak een eigen, externe `clickHandler`-functie;
    - Zorg ervoor dat deze functie wordt aangeroepen wanneer er op de button geklikt wordt;
    - Zorg ervoor dat wanneer deze functie wordt aangeroepen, er "We gaan direct door naar de afspraken pagina!" wordt gelogd in de console;
-   - Stuur de gebruiker daarna door naar de appointmentspagina;
+   - Stuur de gebruiker daarna door naar de appointmentspagina;# Frontend-React-Routing-Tandartspraktijk
